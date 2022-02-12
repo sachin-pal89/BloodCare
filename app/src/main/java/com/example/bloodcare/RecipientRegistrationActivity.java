@@ -88,7 +88,7 @@ public class RecipientRegistrationActivity extends AppCompatActivity {
         registerButton = findViewById(R.id.registerButton);
         loader = new ProgressDialog(this);
 
-        mAuth = FirebaseAuth.getInstance();
+       mAuth = FirebaseAuth.getInstance();
 
 
 

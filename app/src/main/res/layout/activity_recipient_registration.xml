@@ -12,15 +12,14 @@
         android:background="@android:color/white">
 
         <ImageView
-            android:layout_width="377dp"
-            android:layout_height="354dp"
-            android:src="@drawable/ic_upper_red"
+            android:layout_width="730dp"
+            android:layout_height="424dp"
             android:layout_marginBottom="58dp"
-            app:layout_constraintEnd_toEndOf="parent"
+            android:src="@drawable/ic_upper_red"
             app:layout_constraintBottom_toTopOf="@id/info"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.47"
-            app:layout_constraintStart_toStartOf="parent"
-            tools:layout_editor_absoluteY="-167dp" />
+            app:layout_constraintStart_toStartOf="parent" />
 
         <TextView
             android:id="@+id/heading"
