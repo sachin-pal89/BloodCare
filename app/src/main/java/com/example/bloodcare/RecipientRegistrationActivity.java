@@ -73,7 +73,7 @@ public class RecipientRegistrationActivity extends AppCompatActivity {
         backButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(RecipientRegistrationActivity.this, LoginActivity.class);
+                Intent intent = new Intent(RecipientRegistrationActivity.this, com.example.bloodcare.LoginActivity.class);
                 startActivity(intent);
             }
         });

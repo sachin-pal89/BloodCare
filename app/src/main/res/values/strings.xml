@@ -13,6 +13,13 @@
     <string name="password">Password</string>
     <string name="sign_up_now">Sign Up Now</string>
     <string name="already_registered_sign_in">Already registered? Sign In</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="sign_in_now">Sign In Now</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="login_page">Login Page</string>
 
     <string-array name="bloodgroups">
         <item>Select your blood group</item>
