@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BloodCare">
         <activity
+            android:name=".DonorRegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SelectRegistrationActivity"
+            android:exported="false" />
+        <activity
             android:name=".RecipientRegistrationActivity"
             android:exported="false" />
         <activity
