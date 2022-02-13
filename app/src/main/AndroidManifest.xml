@@ -10,22 +10,31 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BloodCare">
         <activity
+            android:name=".SentEmailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CategorySelectedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RecipientRegistrationActivity"
+            android:exported="false" />
+        <activity
             android:name=".DonorRegistrationActivity"
             android:exported="false" />
         <activity
             android:name=".SelectRegistrationActivity"
             android:exported="false" />
         <activity
-            android:name=".RecipientRegistrationActivity"
-            android:exported="false" />
-        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
             android:name=".SplashScreenActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,5 +43,6 @@
             </intent-filter>
         </activity>
     </application>
+
 
 </manifest>

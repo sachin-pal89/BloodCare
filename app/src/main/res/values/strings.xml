@@ -23,6 +23,14 @@
     <string name="what_best_describe_you">What best describe you?</string>
     <string name="blood_donor">Blood Donor</string>
     <string name="blood_recipient">Blood Recipient</string>
+    <string name="blood_donor_registration">Blood Donor Registration</string>
+    <string name="register_now">Register Now</string>
+    <string name="recipient">RECIPIENT</string>
+    <string name="sachinpal01012003_gmail_com">sachinpal01012003@gmail.com</string>
+    <string name="_91_1234567890">+91 1234567890</string>
+    <string name="blood_group">Blood Group :</string>
+    <string name="a_ve">A+ve</string>
+    <string name="email">Email</string>
 
     <string-array name="bloodgroups">
         <item>Select your blood group</item>
