@@ -37,7 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="@string/login_page"
+                android:text="Login Page"
                 android:textColor="#0A0819"
                 android:textSize="25sp"
                 android:textStyle="bold" />
@@ -47,7 +47,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
                 android:gravity="center"
-                android:text="@string/sign_in_to_continue"
+                android:text="Sign in to continue"
                 android:textColor="#0A0819"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -74,7 +74,7 @@
                         android:layout_height="wrap_content"
                         android:drawableStart="@drawable/ic_mail"
                         android:drawablePadding="10dp"
-                        android:hint="@string/enter_email"
+                        android:hint="Enter Email"
                         android:inputType="textEmailAddress"
                         android:textColor="#0A0819"
                         android:textColorHint="#0A0819"
@@ -97,7 +97,7 @@
                         android:layout_height="wrap_content"
                         android:drawableStart="@drawable/ic_password"
                         android:drawablePadding="10dp"
-                        android:hint="@string/enter_password"
+                        android:hint="Enter Password"
                         android:inputType="textPassword"
                         android:textColor="#000"
                         android:textColorHint="#000"
@@ -111,7 +111,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:gravity="end"
-                    android:text="@string/forgot_password"
+                    android:text="Forgot password?"
                     android:textColor="#0A0819"
                     android:textStyle="bold" />
 
@@ -123,7 +123,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="10dp"
                     android:background="@drawable/buttons_background"
-                    android:text="@string/sign_in_now"
+                    android:text="Sign In Now"
                     android:textAllCaps="false"
                     android:textColor="#fff"
                     android:textSize="20sp" />
@@ -134,7 +134,7 @@
                     android:layout_height="33dp"
                     android:layout_marginTop="15dp"
                     android:gravity="center"
-                    android:text="@string/don_t_have_an_account_sign_up"
+                    android:text="Don't have an account? Sign Up"
                     android:textColor="#0A0819"
                     android:textStyle="bold" />
 

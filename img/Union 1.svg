@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360.732" height="339.027" viewBox="0 0 360.732 339.027">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.111" y1="-0.121" x2="0.683" y2="0.579" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff217a"/>
+      <stop offset="1" stop-color="#ff4d4d"/>
+    </linearGradient>
+  </defs>
+  <path id="Union_1" data-name="Union 1" d="M946.631,666.973c-.289.047-.461-1.877-.55-4.972H946V365h360V619.973h.631s.228,47.67,0,47c-25.436,19.08-100.483,37.052-182.479,37.054C1062.942,704.029,997.865,694.016,946.631,666.973Z" transform="translate(-946 -365)" fill="url(#linear-gradient)"/>
+</svg>
