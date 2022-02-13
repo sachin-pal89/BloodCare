@@ -15,6 +15,6 @@ for the compatible blood types with their blood group and the required donors or
 
 ## Contributors
 1. Sachin Pal (https://github.com/sachin-pal89)
-1. Varun Kanbhat (https://github.com/varunkanbhat18)
-2. Manav Gupta (https://github.com/ManavGupta1005)
-3. Mansoor Kanorewala (https://github.com/MansoorKanorewala)
+2. Varun Kanbhat (https://github.com/varunkanbhat18)
+3. Dhruv Bhavsar (https://github.com/dhruvvbhavsar)
+4. Mansoor Kanorewala (https://github.com/MansoorKanorewala)
