@@ -70,7 +70,7 @@ public class DonorRegistrationActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_donor_registration);
 
-        backButton2 = findViewById(R.id.backButton);
+        backButton2 = findViewById(R.id.backButton2);
         backButton2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -79,14 +79,14 @@ public class DonorRegistrationActivity extends AppCompatActivity {
             }
         });
 
-        profile_image2 = findViewById(R.id.profile_image);
-        registerFullName2 = findViewById(R.id.registerFullName);
-        registerIdNumber2 = findViewById(R.id.registerIdNumber);
-        registerPhoneNumber2 = findViewById(R.id.registerPhoneNumber);
-        registerEmail2 = findViewById(R.id.registerEmail);
-        registerPassword2 = findViewById(R.id.registerPassword);
-        bloodGroupsSpinner2 = findViewById(R.id.bloodGroupsSpinner);
-        registerButton2 = findViewById(R.id.registerButton);
+        profile_image2 = findViewById(R.id.profile_image2);
+        registerFullName2 = findViewById(R.id.registerFullName2);
+        registerIdNumber2 = findViewById(R.id.registerIdNumber2);
+        registerPhoneNumber2 = findViewById(R.id.registerPhoneNumber2);
+        registerEmail2 = findViewById(R.id.registerEmail2);
+        registerPassword2 = findViewById(R.id.registerPassword2);
+        bloodGroupsSpinner2 = findViewById(R.id.bloodGroupsSpinner2);
+        registerButton2 = findViewById(R.id.registerButton2);
         loader = new ProgressDialog(this);
 
         mAuth = FirebaseAuth.getInstance();

@@ -1,12 +1,13 @@
 plugins {
     id 'com.android.application'
 }
+apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.bloodcare"
+        applicationId "com.example.blooddonationapp"
         minSdk 22
         targetSdk 31
         versionCode 1
@@ -22,7 +23,6 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-
 
     buildTypes {
         release {
